@@ -1,3 +1,8 @@
+##Instructions
+
+The data file <em>household_power_consumption.txt</em> was located in the subdirectory <em>./data</em> relative to the data containing my R scripts.
+<p> The files <em> plot1.png, plot2.png, plot3.png</em> and <em>plot4.png</em> are found in the <em>./figure</em> subdirectory
+<p>
 ## Introduction
 
 This assignment uses data from
